@@ -1,0 +1,45 @@
+Game Planning and Design:
+
+// How the game works: Game Mode 1
+
+The player gets a set of identical boxes.
+The player has the option to add a box to their section.
+Each box generates a random letter.
+If their letter(s) match the box below then the player wins points.
+The player can choose the amount of letters they want.
+If they generate a valid English word then the player wins extra points.
+The leaderboard ranking is based on the length of the letter matched and the amount of clicks to get a match.
+If the player has an record holding word then they will be added to the leaderboard.
+The player gets points for a match 1 point per letter.
+No matches results in no points.
+There will be a section with a countdown to give the player a point every min.
+(Changes can be made)
+
+
+// Game features/requirements:
+
+1. Leaderboard
+2. Tokens/points
+3. Game modes
+4. Dictionary
+5. Payment
+6. Account/Profile
+7. Animations & sound
+8. Responsive UI
+9. Rewards
+
+
+// Todos: 
+1. Random number function.
+2. Display a value (a-z) for the given number.
+3. Generate 2 random values and if they match then display result.
+4. Add a function to add a extra box.
+5. Add a click counter function.
+6. When letters match counter resets.
+7. 
+
+
+
+// How the game works: Game mode 2
+
+(Will be started after the completion of mode 1)
